@@ -191,15 +191,12 @@ function App() {
         <h2 class="title">About Me</h2>
         <div class="about-container flex">
           <div class="left">
-            <img src="./assets/imgs/aayush.png" alt="" />
+            <img src={aayush} alt="" />
           </div>
           <div class="right flex">
             <h2>Aayush Sharma</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo
-              expedita tenetur ipsa optio eveniet suscipit autem quia ratione,
-              sint obcaecati saepe dolor dolores. Quo, officiis maiores at
-              distinctio modi perferendis?
+            A Bachelor of Information Technology graduate seeking a entry level  position in the Information Technology field . As a fresh graduate I am confident enough to  bring my theoretical knowledge into practice which will enhance my  ability in multitasking and problem solving to provide effective and efficient solutions for technical matters. Furthermore, I can develop and design website, computer system and frameworks by communicating with analysts, project leads and IT team. I can bring great value and dedication to the role to achieve organisational objectives.
             </p>
 
             <p class="flex">Sydney, Australia</p>
